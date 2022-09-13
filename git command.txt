@@ -1,5 +1,22 @@
 -git clone ( link ) -----to clone the repository 
+
+
 - git add --all or git add --(file name)
+
 - git commit -m "massage" 
+
 -git push "repo link"
+
+
+
+
 - git pull "repo link"
+
+- git status 
+
+-git branch -to check the branch
+
+- git checkout -b "name_name" -to creat new branch and checkout
+
+-git checkout branchname - to swich th branch
+

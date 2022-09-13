@@ -20,3 +20,4 @@
 
 -git checkout branchname - to swich th branch
 
+-git branch -d branchname  -to  delet brach
